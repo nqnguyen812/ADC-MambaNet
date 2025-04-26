@@ -1,1 +1,2 @@
-# ADC-MambaNet
+The code will be released soon.
+
